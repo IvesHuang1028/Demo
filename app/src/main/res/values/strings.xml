@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">demo</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">List Fragment</string>
+    <string name="second_fragment_label">Content Fragment</string>
+    <string name="third_fragment_label">Web Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name ="home_title">Taipei Tour</string>
+    <string name ="language_settings"></string>
+</resources>
